@@ -18,9 +18,9 @@
 
 
 
-Le site web qu'affiche tous les étudiants qui sont dans la base de données, également sur le site web il est possible d'ajouter, modifier et supprimer un élève 
+Site web qu'affiche tous les étudiants qui sont dans la base de données, également sur le site web il est possible d'ajouter, modifier et supprimer un élève 
 
-Le Site web a deux tables, étudient et ville, dans lesquelles les données ont été enregistree de façon aléatorie. 
+Le Site web a deux tables, étudient et ville, dans lesquelles les données ont été enregistree de façon aléatorie avec faker
 
 
 ###### Rosemberg López Collège de Maisonneuve
